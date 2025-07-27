@@ -1,0 +1,10 @@
+# Ignore all video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+
+# Ignore Manim media output
+media/
