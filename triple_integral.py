@@ -1,7 +1,7 @@
 from manim import *
 import numpy as np
 
-TESTING = False  # Toggle for fast render
+TESTING = True  # Toggle for fast render
 
 class TripleIntegralApprox(ThreeDScene):
     def construct(self):
